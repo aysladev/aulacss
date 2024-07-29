@@ -13,15 +13,31 @@ h2 {
    color: greenyellow;
     text-align: center;  
 }
+#loud p{
+    color:aliceblue;
+}
 #keyd{
     border: solid purple 2px;
     background-image: url(imgs/vivo-keyd-stars-cblol-2024-9-rodada.jpg);
-}
+    background-position: center;
+    background-size: auto;
+    
 .paragrafo{
     color: azure;
+}
 }
 .times{
     padding: 30px;
     margin: 50px;
     width: 500px;
+    box-shadow: 10px 5px 10px;
+}
+img{
+    width: 200;
+
+}
+body{
+    margin: 150px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-shadow: rgb(116, 108, 108) 1px 0 10px;
 }
